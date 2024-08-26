@@ -2,7 +2,7 @@
 
 MCQ website build for Game Design competition.
 
-## To run from build 
+## Run from build 
 
 ### 1. Clone the Repository
 
@@ -28,3 +28,29 @@ serve -s build
  ```
 
 Then Serve the site with locally or networkly.
+
+
+## Run from Source file
+
+### 1. Make new React Project
+```bash
+npx create-react-app my-app
+ ```
+
+### 2. Copy the /src and /public folders to new project file directory.
+
+### 2. Install dependencies.
+
+```bash
+npm install bootstrap
+npm install axios
+npm i sass
+ ```
+
+### 2. Run the App.
+
+```bash
+npm run start
+ ```
+
+
