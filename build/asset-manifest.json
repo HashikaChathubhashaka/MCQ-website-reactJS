@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/HashikaChathubhashaka/MCQ-website-reactJS/static/css/main.7d2eb4a2.css",
-    "main.js": "/HashikaChathubhashaka/MCQ-website-reactJS/static/js/main.c9f8920f.js",
+    "main.js": "/HashikaChathubhashaka/MCQ-website-reactJS/static/js/main.0f5704bc.js",
     "static/js/453.f3fce286.chunk.js": "/HashikaChathubhashaka/MCQ-website-reactJS/static/js/453.f3fce286.chunk.js",
     "static/media/game_logo.png": "/HashikaChathubhashaka/MCQ-website-reactJS/static/media/game_logo.453b540f4ec2078f87d7.png",
     "static/media/team_logo.png": "/HashikaChathubhashaka/MCQ-website-reactJS/static/media/team_logo.c4bb7a9e3f63422fd8bc.png",
     "index.html": "/HashikaChathubhashaka/MCQ-website-reactJS/index.html",
     "main.7d2eb4a2.css.map": "/HashikaChathubhashaka/MCQ-website-reactJS/static/css/main.7d2eb4a2.css.map",
-    "main.c9f8920f.js.map": "/HashikaChathubhashaka/MCQ-website-reactJS/static/js/main.c9f8920f.js.map",
+    "main.0f5704bc.js.map": "/HashikaChathubhashaka/MCQ-website-reactJS/static/js/main.0f5704bc.js.map",
     "453.f3fce286.chunk.js.map": "/HashikaChathubhashaka/MCQ-website-reactJS/static/js/453.f3fce286.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d2eb4a2.css",
-    "static/js/main.c9f8920f.js"
+    "static/js/main.0f5704bc.js"
   ]
 }
